@@ -1,1 +1,1 @@
-print('Пошел нахуй')
+print('Hello world!')
